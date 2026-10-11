@@ -4,7 +4,7 @@ import requests
 # App Configuration
 st.set_page_config(page_title="Academic & Gov Research Aggregator", layout="wide")
 
-st.title("📚 Research Aggregator")
+st.title("📚 Research Assistant")
 st.markdown("Search academic databases and access key government archives.")
 
 # --- API FUNCTIONS ---
